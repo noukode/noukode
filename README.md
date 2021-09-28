@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maulan909
 - 👀 I’m interested in Web Programming Stuff
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. contact to maulanahilmi909@gmail.com
 
