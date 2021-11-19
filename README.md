@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maulan909
+- 👋 Hi, I’m @maulan909 / Nou Taka
 - 👀 I’m interested in Web Programming Stuff
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
